@@ -18,7 +18,7 @@ Ao finalizar os seus estudos, você será criao relatórios e gráficos com base
 
 ## Link deste curso  💻
 
- 🎯 <a href="https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse" target="_blank">Curso</a>
+ 🎯 <a href="https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse" target="_blank">BI e DW com SQL Server e Power BI</a>
 
 <br>
 <br>
